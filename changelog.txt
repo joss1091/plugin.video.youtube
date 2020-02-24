@@ -1,3 +1,6 @@
+6.6.1
+[fix] se actualiza los datos de api_key, client_id y secret debido a que se elimino el anterior
+
 6.6.0
 [add] 'Play (Ask for quality)' context menu
 [add] search by channel or playlist id
