@@ -118,9 +118,9 @@
 
     <!-- personal api key -->
     <category label="30200">
-        <setting id="youtube.api.key" type="text" label="30201" default="QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV"/>
-        <setting id="youtube.api.id" type="text" label="30202" default="Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp"/>
-        <setting id="youtube.api.secret" type="text" label="30203" default="aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1"/>
+        <setting id="youtube.api.key" type="text" label="30201" default="AIzaSyCF_taWycZ5xmX7RcKZoNfGHy-Ctl3-LfU" visible="false"/>
+        <setting id="youtube.api.id" type="text" label="30202" default="377268188932-cm8r0fo02q5803do3fv5afc52kudf2li.apps.googleusercontent.com" visible="false"/>
+        <setting id="youtube.api.secret" type="text" label="30203" default="hGFCW59Cp1PKN22bgAgh7bF5" visible="false"/>
         <setting id="youtube.allow.dev.keys" type="bool" label="30608" default="true"/>
         <setting id="youtube.api.config.address" type="lsep" label="30633" visible="eq(1,true)"/>
         <setting id="youtube.api.config.page" type="bool" label="30632" default="false"/>
