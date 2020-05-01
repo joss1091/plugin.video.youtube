@@ -16,34 +16,9 @@ key_sets = {
     },
     'provided': {
         '0': {  # youtube-plugin-for-kodi-2
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1'
-        },
-        '1': {  # youtube-plugin-for-kodi
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1',
-        },
-        '2': {  # youtube-plugin-for-kodi-3
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1'
-        },
-        '3': {  # youtube-plugin-for-kodi-4
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1'
-        },
-        '4': {  # youtube-plugin-for-kodi-5
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1'
-        },
-        '5': {  # youtube-plugin-for-kodi-6
-            'id': 'Mzc3MjY4MTg4OTMyLWNtOHIwZm8wMnE1ODAzZG8zZnY1YWZjNTJrdWRmMmxp',
-            'key': 'QUl6YVN5Q0ZfdGFXeWNaNXhtWDdSY0tab05mR0h5LUN0bDMtTGZV',
-            'secret': 'aEdGQ1c1OUNwMVBLTjIyYmdBZ2g3YkY1'
+            'id': '',
+            'key': '',
+            'secret': ''
         }
     }
 }
